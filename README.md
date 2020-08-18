@@ -10,5 +10,6 @@ This github repository contains a run_analysis.R file which does the following.
   
   5. From the data set in step 4, creates a second,            independent tidy data set with the average for each       activity and each subject.
   
+However, the data import path is set to the working directory on what is on my computer.Those who wish to run this R script would have to manually change the import path to their working directory
 
 This repository also contains codebook file called CodeBook.md which describes the variables, data, and any transformation or work that has been performed to clean up the data.
